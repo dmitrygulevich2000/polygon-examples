@@ -13,6 +13,6 @@ source .env.example
 
 ### Deposit
 
-![DepositDiagram](img/Deposit.svg)
+![DepositDiagram](img/Deposit.pdf)
 
 ### Withdrawal
