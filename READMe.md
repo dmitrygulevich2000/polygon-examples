@@ -16,3 +16,5 @@ source .env.example
 ![DepositDiagram](img/Deposit.svg)
 
 ### Withdrawal
+
+![WithdrawalDiagram](img/Withdrawal.svg)
